@@ -1,11 +1,13 @@
 +++
-date = '2025-12-03T09:40:41-05:00'
 draft = false
 title = 'About'
 +++
 
 # About me
 
-Computer science and cybersecurity major
+## Robert Lincoln
 
+Computer science and cybersecurity major, 2nd year
+
+lincolnr2@nku.edu
 github.com/lincolnr2
